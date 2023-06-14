@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\bin\Debug\net6.0\gestion d une pharmacie.exe
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\bin\Debug\net6.0\gestion d une pharmacie.deps.json
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\bin\Debug\net6.0\gestion d une pharmacie.runtimeconfig.json
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\bin\Debug\net6.0\gestion d une pharmacie.dll
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\bin\Debug\net6.0\gestion d une pharmacie.pdb
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\obj\Debug\net6.0\gestion d une pharmacie.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\obj\Debug\net6.0\gestion d une pharmacie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\obj\Debug\net6.0\gestion d une pharmacie.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\obj\Debug\net6.0\gestion d une pharmacie.AssemblyInfo.cs
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\obj\Debug\net6.0\gestion d une pharmacie.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\obj\Debug\net6.0\gestion d une pharmacie.dll
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\obj\Debug\net6.0\refint\gestion d une pharmacie.dll
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\obj\Debug\net6.0\gestion d une pharmacie.pdb
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\obj\Debug\net6.0\gestion d une pharmacie.genruntimeconfig.cache
+C:\Users\PC\Desktop\gestion d une pharmacie\gestion d une pharmacie\gestion d une pharmacie\obj\Debug\net6.0\ref\gestion d une pharmacie.dll

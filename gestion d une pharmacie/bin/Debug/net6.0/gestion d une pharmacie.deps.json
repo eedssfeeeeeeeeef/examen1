@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gestion d une pharmacie/1.0.0": {
+        "runtime": {
+          "gestion d une pharmacie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gestion d une pharmacie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
